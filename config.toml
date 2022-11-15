@@ -1,0 +1,26 @@
+baseURL = 'https://grotz.io'
+languageCode = 'en-us'
+title = "Lukas' coding blog"
+theme = "hugo-theme-shell"
+
+[Params]
+    description = "Lukas Grotz's Portfolio!"
+    [Params.Terminal]
+    scheme = "Molokai"
+
+    userName = "lukas"
+    pcName = "laptop"
+    workDir = "portfolio"
+    profile = "about.txt"
+
+    description = "/description.md"
+
+    [Params.Tree]
+    use = true
+    folderName = "links"
+
+    files = [
+        ["GitHub", "https://github.com/Transmitt0r"],
+        ["LinkedIn", "https://www.linkedin.com/in/lukas-grotz/"],
+        ["Twitter", "https://twitter.com/lukas_grotz"],
+    ]
