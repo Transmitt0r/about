@@ -22,5 +22,4 @@ theme = "hugo-theme-shell"
     files = [
         ["GitHub", "https://github.com/Transmitt0r"],
         ["LinkedIn", "https://www.linkedin.com/in/lukas-grotz/"],
-        ["Twitter", "https://twitter.com/lukas_grotz"],
     ]
